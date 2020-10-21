@@ -3,7 +3,7 @@
 // Ver.        : 202010221
 // Last Update : 2020/10/21
 // Author      :  A.saito
-// Comment     : aaaaaa
+// Comment     : 
 //
 
 
